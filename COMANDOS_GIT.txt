@@ -1,0 +1,8 @@
+git status --> me dice en que archuvos hubo cambios en que estado se 
+               encuentra mi repositorio local
+
+git add -A significa todos los archivos
+git add archijvo.html especifica que archivo 
+
+si voy a los 3 punticos y busco "Changes" luego "stage all changes" paso el
+archuvo a Changes en el arbol del proyecto (lado izquierdo)
