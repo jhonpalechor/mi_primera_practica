@@ -1,8 +1,14 @@
 git status --> me dice en que archuvos hubo cambios en que estado se 
                encuentra mi repositorio local
 
-git add -A significa todos los archivos
-git add archijvo.html especifica que archivo 
-
 si voy a los 3 punticos y busco "Changes" luego "stage all changes" paso el
-archuvo a Changes en el arbol del proyecto (lado izquierdo)
+archuvo a Changes en el arbol del proyecto (lado izquierdo) y con el (-) regreso 
+el archivo a donde estaba
+
+git add -A significa todos los archivos
+git add archijvo.html especifica que archivo una vez ejecutado este comando
+me pone el archivo en "Staged Changes" un estado antes del commit 
+
+luego hacemos los cambion con 
+git commit -m "commit#2" le ponemos una etuiqueta a ese cambio
+
