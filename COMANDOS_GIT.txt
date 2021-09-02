@@ -12,3 +12,5 @@ me pone el archivo en "Staged Changes" un estado antes del commit
 luego hacemos los cambion con 
 git commit -m "commit#2" le ponemos una etuiqueta a ese cambio
 
+
+
